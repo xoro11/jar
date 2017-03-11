@@ -13,11 +13,15 @@
   ],
   "author": "xoro",
   "license": "MIT",
+  "engines": {
+    "node": "6.10.0",
+    "npm": "3.10.10"
+  },
   "dependencies": {
     "ejs": "^1.0.0",
     "express": "^4.8.2",
     "gravatar": "~1.0.6",
     "socket.io": "1.0.6",
-    "mpg321": "0.3.2"
+    "mpg321": "0.1.5"
   }
 }
